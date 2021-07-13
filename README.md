@@ -15,7 +15,7 @@ To veerify prometheus is scraping the data, Run this command.
 ```
 
 You will see output like this 
-![screenshot_1]()
+![screenshot_1](https://github.com/Someshbose/grafana-spring-app/blob/master/images/Screenshot_1.png)
 
 Copy the ip running following command-
 ```sh
@@ -30,7 +30,7 @@ docker run -v -d -p 3000:3000 grafana/grafana
 
 You will see the ouput like this-
 
-![screenshot2]()
+![screenshot2](https://github.com/Someshbose/grafana-spring-app/blob/master/images/Screenshot_2.png)
 
 
 ###Reference
